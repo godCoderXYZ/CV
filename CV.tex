@@ -1,0 +1,172 @@
+%------------------------
+% Latex CV Template for COS Northeastern University Faculty
+% Author: Zoe Kearney
+
+% Formatting: https://www.overleaf.com/latex/templates/coles-resume-template/qhpynjcvjpcj
+
+% Follows: Template Dossier Documents, Office of the Provost, Northeastern; July 1, 2025 version (https://provost.northeastern.edu/faculty-affairs/). 
+
+%Disclaimer: This template is intended to complement Northeastern University’s dossier guidelines for tenure and promotion cases, as well as discipline-specific CV standards.
+
+% License: LaTeX Project Public License 1.3c
+%------------------------
+
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=1in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+\usepackage{xcolor} % For color (of hyperlinks)
+\usepackage{lipsum} % For filler text
+\usepackage{changepage} %For Indenting
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+    linktoc=all
+}
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+\newenvironment{subs} %Indenting
+  {\adjustwidth{2em}{0pt}}
+  {\endadjustwidth}
+
+\newcommand{\entryheader}[3]{%
+    \noindent\textbf{#1} \hfill \textit{#2 \,|\, Age #3}
+}
+
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+    \textbf{\Large Micah Shaw }\\[3pt] % Name
+    \textbf{Curriculum Vitae}\\[1pt] % CV
+    Hong Kong | \href{mailto:smicah169@gmail.com}{smicah169@gmail.com}
+\end{center}
+
+%------------------------
+% Education Section
+\section*{Education}
+    \noindent
+    \entryheader{Victoria Shanghai Academy}{2024-26}{15-17} \\
+    Hong Kong \\
+    High School, IBDP \\
+
+    \noindent
+    \entryheader{Carnegie Mellon University}{2025 Jun-Aug}{16} \\
+    Pennsylvania, USA \\
+    Pre-College Summer Session \\
+    15-122 Principles of Imperative Computation (Grade: A) \\
+    21-127 Concepts of Mathematics (Grade: A) \\
+
+%------------------------
+% Projects and Competitions Section
+\section*{Projects and Competitions}
+    \noindent
+    \entryheader{Roblox National Awards (RNA) Participant}{2020-21}{12} \\
+    Institution: Koding Kingdom \\
+    Project Name: Obby Kingdom \\
+    Game Visits: 112 \\
+    \href{https://www.roblox.com/games/7086886871/Obby-Kingdom}{Game Link} \\
+    Roblox Studio, Data Stores \\
+    Obstacle Course Game \\
+
+    \noindent
+    \entryheader{Youth Aerospace Innovation Competition Participant}{2022-23}{14} \\
+    Institution: Hong Kong New Generation Cultural Association \\
+    Project Name: Beidou Mini Agricultural Satellite \\
+    National Youth Space Innovation Competition - 2nd Runner Up in China \\
+    Hong Kong Youth Aerospace Innovation Competition - Level 1 (1st Place) in Hong Kong \\
+    Pitch in Chinese \\
+
+    \noindent
+    \entryheader{Developed Her Voice Matters}{2022-23}{14} \\
+    Project Name: Her Voice Matters \\
+    \href{https://github.com/godCoderXYZ/HerVoiceMatters}{Github Repo} \\
+    Pygame event loop, state machine, physics engine, cutscenes, dialogue, custom audio, sprites, fonts. \\
+    Story Game Raising Awareness of Gender Inequality \\
+
+    \noindent
+    \entryheader{Developed Mine Realms}{2023}{14} \\
+    Project Name: Mine Realms \\
+    \href{https://www.roblox.com/games/11583826933/Mine-Realms}{Game Link} \\
+    Roblox Studio, OOP, Map Design, Audio Creation \\
+    Simulator Game \\
+
+    \noindent
+    \entryheader{Developed ZenScholar}{2023-24}{15} \\
+    Project Name: ZenScholar \\
+    \href{https://github.com/godCoderXYZ/ZenScholar}{Github Repo} \\
+    AppInventor, OpenAI API, Speech Recognition, TTS, iframes, Trigonometry \\
+    Well-being App \\
+
+    \noindent
+    \entryheader{Developed PassPersona}{2023-24}{15} \\
+    Project Name: PassPersona \\
+    \href{https://github.com/godCoderXYZ/passwordManager}{Github Repo} \\
+    Pygame, Speech Diarization, Voice Recognition, TTS, Hashing Techniques, Encryption, PostgreSQL \\
+    Voice-controlled AI Password Management Solution \\
+
+    \noindent
+    \entryheader{CodingQuest Participant}{2024}{15} \\
+    Organizer: Paul Baumgarten \\
+    Individual Ranking: 14/2144 globally \\
+    Dynamic Programming, BFS/DFS \\
+    Contest Programming \\
+
+    \noindent
+    \entryheader{Founded NextWave Hackers}{2024}{15} \\
+    Institution: Victoria Shanghai Academy \\
+    School Computer Science Club \\
+
+    \noindent
+    \entryheader{Developed Game Theory Simulation}{2024-25}{16} \\
+    Project Name: Game Theory Simulation \\
+    \href{https://game-theory-simulation-client.vercel.app/}{Website Link}|\href{https://github.com/godCoderXYZ/game-theory-simulation}{Github Repo} \\
+    ReactJS, Websockets (socket.io library), Client-Server Architecture \\
+    Cross-Device Multiplayer Web Game, teaching tool \\
+
+    \noindent
+    \entryheader{Developed dot2dot's Spinner Game}{2024-25}{16} \\
+    Project Name: dot2dot \\
+    \href{https://github.com/DADVDC/JA-Site-}{Github Repo} \\
+    jQuery, Spin Physics, Trigonometry \\
+    Spinner minigame for larger team project "dot2dot" \\
+
+    \noindent
+    \entryheader{JA Code for Impact}{2024-25}{16} \\
+    Institution: Junior Achievement (JA) \\
+    Project Name: FoodLink \\
+    2nd Runner Up in Hong Kong \\
+    \href{https://github.com/godCoderXYZ/FoodLink}{Github Repo} \\
+    React Native, VQA (Visual Question Answering), MLM (Masked Language Modelling) \\
+    Food Inventory and Waste Management Solution \\
+
+    \noindent
+    \entryheader{Counseling Website}{2024-26}{16-17} \\
+    Institution: Victoria Shanghai Academy \\
+    Project Name: Counseling Website \\
+    \href{https://counseling-website.vercel.app/}{Website Link}|\href{https://github.com/godCoderXYZ/counseling_website}{Github Repo} \\
+    NextJS Frontend, DRF (Django Rest Framework) Backend, PostgreSQL, Clerk Authentication, LangChain RAG Agent, Tool-Calling, Web Scraping, Webhooks, Async, API Proxy \\
+    Counseling Website for School Social-Emotional Counseling Team \\
+
+% End document
+\end{document}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
