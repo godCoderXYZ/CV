@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.17)  11 APR 2026 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.17)  16 APR 2026 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -368,17 +368,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--175
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--185
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--191
+Underfull \hbox (badness 10000) in paragraph at lines 184--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--198
+Underfull \hbox (badness 10000) in paragraph at lines 191--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--203
 
  []
 
@@ -386,11 +391,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--198
 
 [2]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 203.
+(Font)              <6> on input line 208.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 203.
+(Font)              <5> on input line 208.
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--210
 
  []
 
@@ -411,9 +416,9 @@ Here is how much of TeX's memory you used:
  33339 multiletter control sequences out of 15000+600000
  562381 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,6n,93p,327b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,93p,327b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on CV.pdf (3 pages, 81793 bytes).
+Output written on CV.pdf (3 pages, 82943 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
