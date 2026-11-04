@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.17)  4 NOV 2026 09:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.17)  4 NOV 2026 09:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -343,26 +343,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--189
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 206--212
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--218
+Underfull \hbox (badness 10000) in paragraph at lines 212--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--225
+Underfull \hbox (badness 10000) in paragraph at lines 217--222
 
  []
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 230.
+(Font)              <6> on input line 226.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 230.
+(Font)              <5> on input line 226.
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--232
+Underfull \hbox (badness 10000) in paragraph at lines 223--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
 
  []
 
@@ -385,7 +390,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  79i,5n,93p,972b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on CV.pdf (2 pages, 81817 bytes).
+Output written on CV.pdf (2 pages, 82169 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
