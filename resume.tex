@@ -1,0 +1,125 @@
+%------------------------
+% Latex CV Template for COS Northeastern University Faculty
+% Author: Zoe Kearney
+
+% Formatting: https://www.overleaf.com/latex/templates/coles-resume-template/qhpynjcvjpcj
+
+% Follows: Template Dossier Documents, Office of the Provost, Northeastern; July 1, 2025 version (https://provost.northeastern.edu/faculty-affairs/). 
+
+%Disclaimer: This template is intended to complement Northeastern University’s dossier guidelines for tenure and promotion cases, as well as discipline-specific CV standards.
+
+% License: LaTeX Project Public License 1.3c
+%------------------------
+
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=1in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+\usepackage{xcolor} % For color (of hyperlinks)
+\usepackage{lipsum} % For filler text
+\usepackage{changepage} %For Indenting
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+    linktoc=all
+}
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+\newenvironment{subs} %Indenting
+  {\adjustwidth{2em}{0pt}}
+  {\endadjustwidth}
+
+\newcommand{\entryheader}[3]{%
+    \noindent\textbf{#1} \hfill \textit{#2 \,|\, Age #3}
+}
+
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+    \textbf{\Large Micah Shaw }\\[3pt] % Name
+    \textbf{Resume}\\[1pt] % Resume
+    West Lafayette, Indiana | \href{mailto:godcoderxyz@gmail.com}{godcoderxyz@gmail.com} | \href{https://github.com/godCoderXYZ}{github.com/godCoderXYZ}
+\end{center}
+
+%------------------------
+\section*{Education}
+    \noindent
+    \entryheader{Victoria Shanghai Academy}{2024-26}{15-17} \\
+    Hong Kong \\
+    High School, IBDP \\
+    Mathematics AAHL, CS HL, Physics HL, Economics SL, English L\&L SL, 
+    French ab initio SL\\
+    IBDP Score: 44/45\\
+
+    \noindent
+    \entryheader{Carnegie Mellon University}{2025 Jun-Aug}{16} \\
+    Pennsylvania, USA \\
+    Pre-College Summer Session \\
+    15-122 Principles of Imperative Computation (Grade: A) \\
+    Amortized Analysis, Hash, AVL Trees, Graphs and MSTs, VMs, Union Find, Priority Queues \\
+    21-127 Concepts of Mathematics (Grade: A) \\
+    Proof, induction, functions, sets, infinite sets, relations, combinatorics, number theory, modular arithmetic \\
+
+    \noindent
+    \entryheader{Purdue University}{2026 Fall}{17-Present} \\
+    Indiana, USA \\
+    Undergraduate CS and Math double major \\
+
+\section*{Experience}
+    \noindent
+    \entryheader{Counseling Website}{2024-26}{16-17} \\
+    Institution: Victoria Shanghai Academy \\
+    Client: Manager of the School Social-Emotional Counseling Team \\
+    Project Name: Counseling Website \\
+    \href{https://counseling-website.vercel.app/}{Website Link}|\href{https://github.com/godCoderXYZ/counseling_website}{Github Repo} \\
+    NextJS Frontend, DRF (Django Rest Framework) Backend, PostgreSQL, Clerk Authentication, LangChain RAG Agent, Tool-Calling, Web Scraping, Webhooks, Virtual Memory, Multithreading, Async, Tailwind CSS, API Proxy \\
+
+    \noindent
+    \entryheader{Found Optimal Strategy for Triple Down Poker}{2026}{17} \\
+    Client: Sage LLC, small startup \\
+    Project Name: Triple Down Poker, a \href{https://tripledown.poker/}{patent-pending casino table poker variant}\\
+    Team of 5 \\
+    Value-based RL model trained via self-play, Explainable AI (XAI), Combinatorics and Dimensionality Reduction, Expected Value and Bernoulli Random Variables\\
+    Collaborated on github and presented findings with a simplified evidence-based human strategy.
+
+\section*{Key Achievements}
+    \noindent
+    \entryheader{CodingQuest Participant}{2024}{15} \\
+    Organizer: Paul Baumgarten \\
+    Individual Ranking: 14/2144 globally \\
+    \href{https://github.com/godCoderXYZ/CV/blob/main/public/CodingQuest/certificate-Y11V1MicahSHAW-2024challenge.pdf}{Certificate}\,|\,\href{https://github.com/godCoderXYZ/CV/blob/main/public/CodingQuest/codingquest.pdf}{More Info} \\
+    Learned Dynamic Programming \\
+    Contest Programming \\
+    % Coding Quest is an online competition that promotes problem solving and computational thinking through a series of puzzles over the course of 10 days that students have to solve using the instructions and provided puzzle input.
+    % I primarily used python for this competition, and it was a major achievement for me as I was able to compete with other schools, helping our school reach 9th place of the 206 participating schools. As an individual, I reached 13th place globally and I was 1st place within my school.
+
+    \noindent
+    \entryheader{Founded NextWave Hackers}{2024}{15} \\
+    Institution: Victoria Shanghai Academy \\
+    35 members in 2024-25 | 29 members in 2025-26 \\
+    School Computer Science Club \\
+    Hosted 6 (2024-25) and 4 (2025-26) Innovation Week Events, Esports Brawl Stars Interhouse Competition, Game Theory Club Integration Seminars \\
+
+% End document
+\end{document}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
