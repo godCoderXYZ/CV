@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1793802317.21757 "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/CV.tex" "CV.pdf" "CV" 1793802317.51981 0
-  "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/CV.tex" 1793802317.06422 13733 3bb246b2e46d936d5afef41cea3edad5 ""
+["pdflatex"] 1794012215.63841 "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/CV.tex" "CV.pdf" "CV" 1794012215.96728 0
+  "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/CV.tex" 1794012215.44633 13733 29c36a96b396b6f3b03a3b154eb1a1c4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -71,9 +71,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750135496 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750135018 3345723 dfc640ecd5b1cf941fb4c3e3ba2e2a97 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "CV.aux" 1793802317.49801 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "CV.out" 1793802317.40996 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1793802317.06422 13733 3bb246b2e46d936d5afef41cea3edad5 ""
+  "CV.aux" 1794012215.94295 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "CV.out" 1794012215.85224 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV.tex" 1794012215.44633 13733 29c36a96b396b6f3b03a3b154eb1a1c4 ""
   (generated)
   "CV.aux"
   "CV.log"

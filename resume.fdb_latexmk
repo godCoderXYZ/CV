@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1793801882.79072 "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/resume.tex" "resume.pdf" "resume" 1793801883.08879 0
-  "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/resume.tex" 1793801882.62097 5706 c5fb25c8dcb62ed64fb92e0b6c23ee57 ""
+["pdflatex"] 1794012234.34961 "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/resume.tex" "resume.pdf" "resume" 1794012234.65944 0
+  "/Users/ps/Desktop/Dev Files/vscode files/latex/CV/resume.tex" 1794012234.18449 5706 8a875156566d00fdcca234751aad5363 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
@@ -63,9 +63,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750135496 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750135018 3345723 dfc640ecd5b1cf941fb4c3e3ba2e2a97 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "resume.aux" 1793801883.06854 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "resume.out" 1793801882.9843 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1793801882.62097 5706 c5fb25c8dcb62ed64fb92e0b6c23ee57 ""
+  "resume.aux" 1794012234.63871 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "resume.out" 1794012234.54888 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1794012234.18449 5706 8a875156566d00fdcca234751aad5363 ""
   (generated)
   "resume.aux"
   "resume.log"
